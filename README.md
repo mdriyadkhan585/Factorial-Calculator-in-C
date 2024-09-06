@@ -2,7 +2,7 @@
 ---
 [In Python](https://github.com/mdriyadkhan585/Factorial-Calculator-in-Python)
 
-[In GUI](https://github.com/mdriyadkhan585/Factorial-Calculator-GUI)
+[In PYTHON GUI](https://github.com/mdriyadkhan585/Factorial-Calculator-GUI)
 
 ![Logo](logo.svg)
 
