@@ -1,0 +1,15 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="200" cy="200" r="180" fill="#007BFF" stroke="#333" stroke-width="4"/>
+
+  <!-- Factorial Symbol -->
+  <text x="130" y="180" font-family="Arial" font-size="100" fill="white" font-weight="bold">n!</text>
+
+  <!-- Title -->
+  <text x="105" y="270" font-family="Verdana" font-size="25" fill="#fff" font-weight="bold">Factorial</text>
+  <text x="125" y="310" font-family="Verdana" font-size="25" fill="#fff" font-weight="bold">Calculator</text>
+
+  <!-- Border around logo -->
+  <circle cx="200" cy="200" r="190" fill="none" stroke="#fff" stroke-width="5" />
+</svg>
+
